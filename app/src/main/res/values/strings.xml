@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Listview_Test</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="subject">
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>HTML5</item>
+        <item>CSS3</item>
+        <item>JQuery</item>
+        <item>JavaScript</item>
+        <item>Ajax</item>
+        <item>Json</item>
+        <item>PHP</item>
+        <item>MySQL</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>Pytho</item>
+        <item>JAVA</item>
+    </string-array>
+</resources>
